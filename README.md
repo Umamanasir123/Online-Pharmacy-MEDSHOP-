@@ -1,5 +1,5 @@
 # Online-Pharmacy-MEDSHOP-
-This website is developed by using HTML,CC,JS. 
+This website is developed by using HTML,CSS,JS. 
 # About Website:
 The MED SHOP allows users to purchase different medicines over the internet. The website offers
 convenience, as customers can order from the comfort of their own homes and have them delivered
